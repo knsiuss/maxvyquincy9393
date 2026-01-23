@@ -36,7 +36,7 @@ I'm passionate about AI and machine learning, currently learning deep learning, 
 
 ## 🚀 Featured Projects
 
-### [F1 2025 Analytics Dashboard](https://github.com/maxvyquincy9393/hub)
+### [F1 2025 Analytics Dashboard](https://github.com/maxvyquincy9393/f1lab)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
