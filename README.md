@@ -25,6 +25,7 @@ Passionate about artificial intelligence and machine learning. Currently focused
 
 ### [F1 2025 Analytics Dashboard][(https://github.com/maxvyquincy9393/f1lab])
 [Streamlit: (https://f1-lab.streamlit.app/)]
+
 Interactive analytics platform for Formula 1 race data with ML-powered predictions.
 
 **Key Features:**
